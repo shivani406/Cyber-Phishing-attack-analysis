@@ -47,6 +47,7 @@ CREATE TABLE Grants (
 );
 
 
+
 -- Application Status Table
 
 CREATE TABLE Application_status (
